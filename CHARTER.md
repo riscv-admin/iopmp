@@ -10,6 +10,8 @@ In the first stage, the IOPMP Task Group will deliver an IOPMP architectural spe
  (5) reset process, and
  (6) reactions to an access violation (including the AIA supporting).
 
+To achieve the goals, the task group will interact with the following groups when needed: IOMMU, Trusted Computing, AIA, CMO, and SOC Infrastructure.
+
 Besides the specification, we will provide a simulator. If the resource is available, we will also provide test cases and the reference code for M-mode software managing IOPMPs.
 
 We are aware of some related items not covered in the first version. If we receive the requests and agree, we may include the following items in future versions:
